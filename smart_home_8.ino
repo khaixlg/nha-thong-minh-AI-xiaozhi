@@ -31,8 +31,8 @@
 #define BUZZER   33
 
 // --- WiFi ---
-const char* ssid     = "kh";
-const char* password = "88888888";
+const char* ssid     = "Wifi";
+const char* password = "passwword";
 
 // --- MCP ---
 const char* mcpEndpoint = "wss://api.xiaozhi.me/mcp/?token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjg3Mjc5MCwiYWdlbnRJZCI6MTYzMzIyMSwiZW5kcG9pbnRJZCI6ImFnZW50XzE2MzMyMjEiLCJwdXJwb3NlIjoibWNwLWVuZHBvaW50IiwiaWF0IjoxNzc0NzExNzAzLCJleHAiOjE4MDYyNjkzMDN9.jqd-U5rOY8lt11ANn3nf7eDOOPxf2m1yTV_QGH1GybzZdJ9GR-ZW2_z6kt-nBCX1csJJFXyGmyELVTwtXG6Asw";
